@@ -1,0 +1,7 @@
+{
+  "name": "phantomas-ci",
+  "description": "phantomas-ci",
+  "dependencies": {
+    "phantomas": "~1.6.0"
+  }
+}
